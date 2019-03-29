@@ -1,8 +1,10 @@
-Flatiron School Mod 1 Project
+<b>Flatiron School Mod 1 Project</b><br>
 <br>
-Contributors: Austin Krause and Ran Tokman
 <br>
-Project Description: <br>
+Contributors: Austin Krause and Ran Tokman<br>
+<br>
+<br>
+<b>Project Description:</b><br>
   -Pull data from at least two sources<br>
   -Establish naming conventions for variables and datasets<br>
   -Clean dataset & record parameters used to clean the data<br>
@@ -17,7 +19,8 @@ Project Description: <br>
   -Give at least two actionable insights (What type of films should they belooking to produce? <br>
     ex: What should the budget requirements be? Shouldthey recruit certain actors for their films?<br>
 <br>
-Project Goals:<br>
+<br>
+<b>Project Goals:</b><br>
   -scrape data from Rotten Tomatoes and use titles as a base dataframe<br>
   -use aspects of the scraped data to make API requests on IMDB, OMDB and TMDB<br>
   -find relationships within our data to describe what types of movies may return higher revenue/profits<br>
