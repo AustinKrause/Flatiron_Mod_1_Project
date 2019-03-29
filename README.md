@@ -2,7 +2,7 @@ Flatiron School Mod 1 Project
 
 Contributors: Austin Krause and Ran Tokman
 
-Project Description: 
+Project Description: <br>
   -Pull data from at least two sources
   -Establish naming conventions for variables and datasets
   -Clean dataset & record parameters used to clean the data
