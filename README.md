@@ -7,9 +7,7 @@ Contributors: Austin Krause and Ran Tokman<br>
   -scrape data from Rotten Tomatoes and use titles as a base dataframe<br>
   -use aspects of the scraped data to make API requests on IMDB, OMDB and TMDB<br>
   -find relationships within our data to describe what types of movies may return higher revenue/profits<br>
-  -give insights based on what questions our data answered<br>
-  -find what movie ratings return higher profits/revenues<br>
-  -decipher whether critical movie reviews or popular opinion influence profits<br>
+  -find insights within the data using Pandas and display that information using Seaborn, Matplotlib etc
 
 <b>Questions to be answered:</b><br>
   -Does Rotten Score or Metascore have an overall impact on profitability of a movie?<br>
