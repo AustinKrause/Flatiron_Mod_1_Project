@@ -24,7 +24,7 @@ Link to presentation slideshow: https://docs.google.com/presentation/d/1kgbR6-_e
   ![graph_3](mod_1_pic_4.png)<br>
   What movie rating shows the highest average profits? To do this we grouped our dataset into the most popular movie categories (G, PG, PG-13, R) and found the mean profit for each grouping. According to our data, PG movies tend to profit the most, with G and PG-13 movies profitting strongly as well. This may speak to the accessibility of the movies. Rated R movies will exclude most of the younger population and could play a factor in that regard. Finally, we look at the break down of the each grouping.<br><br>
   ![graph_4](mod_1_pic_3.png)<br>
-  To get a better look, we will need to incorporate more data in the future to even out the groupings. <br>
+  To get a better look, we will need to incorporate more data in the future to even out the groupings. <br><br>
 <b>Going forward:</b><br>
   -Utilize data from that we scraped from BoxOfficeMojo<br>
   -Compare our findings with findings in the new data<br>
