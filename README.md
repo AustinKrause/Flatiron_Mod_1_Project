@@ -28,4 +28,4 @@ Link to presentation slideshow: https://docs.google.com/presentation/d/1kgbR6-_e
 <b>Going forward:</b><br>
   -Utilize data from that we scraped from BoxOfficeMojo<br>
   -Compare our findings with findings in the new data<br>
-  -expand range of movie years beyond 2009-2018<br>
+  -Expand range of movie years beyond 2009-2018<br>
